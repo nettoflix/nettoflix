@@ -21,8 +21,8 @@ I once when i was a kid opened a non functional monitor to find out what was the
 :star: Como você pode ver, eu ainda estou no ínicio da minha jornada, tenho pouca experiência e ainda tenho muita coisa para aprender.  
 Você pode contar comigo para resolver qualquer parada, podemos resolver os maiores problemas se quebrarmos eles em problemas menores e genrecia-los da maneira correta, e a programação é a nossa melhor ferramenta!  
 - :mailbox_with_no_mail: You can contact me in:  
-- 
-- [![Gmail Badge](https://img.shields.io/badge/-netto2002.sjb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:netto2002.sjb@gmail.com)](mailto:netto2002@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-netto2002.sjb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:netto2002.sjb@gmail.com)](mailto:netto2002@gmail.com)   
+- [![Instagram Badge](https://img.shields.io/badge/-netinho8h8-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/netinho8h8/](https://www.instagram.com/netinho8h8/))](https://www.instagram.com/netinho8h8/)
 
 
 
