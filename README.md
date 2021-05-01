@@ -1,19 +1,20 @@
 
-### Olá mundo, eu sou o Netto  
-Eu sou um brasileiro de 18 anos, amo ciência, tecnologia e programação, a qual estudo a um pouco mais de 2 anos.
-Eu amo solucionar desafios e aprender coisas novas.
-
-### 💻  linguagens e ferramentas que já usei:  
+### Hello World, I'm Netto.  
+I'm an 18 years old Brazilian.  
+I love science, technology, and programming, which I have been studying for a little over 2 years.  
+I love to solve challenges and learn new things.  
+### 💻  Languages and tools I've used:  
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/c%23-000000?style=flat&logo=C-Sharp)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=flat&logo=Android-Studio)
 ![Visualtudio](https://img.shields.io/badge/VisualStudio-000000?style=flat&logo=Visual-Studio)  
-Em C++ eu fiz alguns games não finalizados e alguns hacks simples para programas desktop e em java algumas aplicações para desktop e android.
-Alguns deles estão disponíveis como repositories aqui no github e a maioria possui um wiki com documentation
+in C++ I made some unfinished games and some simple hacks for desktop apps.  
+In java, I did some desktop and android apps.  
+Some of them are available as repositories here in github and most of them have a wiki with documentation.  
 ### :sparkles: Fun Facts  
 I'm left handed  
-I once when i was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but i coudn't make it work because i didn't know how to reassembly it ahahaha  
+I once when I was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but I coudn't make it work because I didn't know how to reassembly it ahahaha  
 ### :calendar:: Para o futuro:  
 :books: Aprender WebDevelopment  
 :mortar_board:  I concluded high school last year and I’m about to get in the Electronic Engineering Degree at UFSC (Universidade Federal de Santa Catarina) 
