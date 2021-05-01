@@ -15,7 +15,8 @@ Depois disso eu fui afundo, conheci hacking, assembly language e eletrônica. (e
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/c%23-000000?style=flat&logo=C-Sharp)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=flat&logo=Android-Studio)
-![Visualtudio](https://img.shields.io/badge/VisualStudio-000000?style=flat&logo=Visual-Studio) 
+![Visualtudio](https://img.shields.io/badge/VisualStudio-000000?style=flat&logo=Visual-Studio)  
+Em C++ eu fiz alguns games não finalizados e alguns hacks simples para programas desktop e em java algumas aplicações para desktop e android.
 ### :sparkles: Fun Facts  
 I'm left handed  
 I once when i was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but i coudn't make it work because i didn't know how to reassembly it ahahaha  
