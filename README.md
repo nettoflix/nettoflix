@@ -1,5 +1,6 @@
 
-Olá mundo, eu sou um brasileiro de 18 anos, amo ciência, tecnologia e programação, a qual estudo a um pouco mais de 2 anos.
+### Olá mundo, eu sou o Netto  
+Eu sou um brasileiro de 18 anos, amo ciência, tecnologia e programação, a qual estudo a um pouco mais de 2 anos.
 Eu amo solucionar desafios e aprender coisas novas.
 
 ### 💻  linguagens e ferramentas que já usei:  
