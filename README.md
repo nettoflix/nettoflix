@@ -15,7 +15,7 @@ Some of them are available as repositories here in github and most of them have 
 ### :sparkles: Fun Facts  
 I'm left handed  
 I once when I was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but I coudn't make it work because I didn't know how to reassembly it ahahaha  
-### :calendar:: Para o futuro:  
+### :calendar:: Fot the future:  
 :books: Aprender WebDevelopment  
 :mortar_board:  I concluded high school last year and I’m about to get in the Electronic Engineering Degree at UFSC (Universidade Federal de Santa Catarina) 
 
