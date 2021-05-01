@@ -9,6 +9,7 @@ Eu amo solucionar desafios e aprender coisas novas.
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=flat&logo=Android-Studio)
 ![Visualtudio](https://img.shields.io/badge/VisualStudio-000000?style=flat&logo=Visual-Studio)  
 Em C++ eu fiz alguns games não finalizados e alguns hacks simples para programas desktop e em java algumas aplicações para desktop e android.
+Alguns deles estão disponíveis como repositories aqui no github e a maioria possue um wiki com documentation
 ### :sparkles: Fun Facts  
 I'm left handed  
 I once when i was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but i coudn't make it work because i didn't know how to reassembly it ahahaha  
@@ -18,7 +19,7 @@ I once when i was a kid opened a non functional monitor to find out what was the
 
 
 :star: Como você pode ver, eu ainda estou no ínicio da minha jornada, tenho pouca experiência e ainda tenho muita coisa para aprender.  
-Você pode contar comigo para resolver qualquer parada, podemos resolver os maiores problemas se quebrarmos eles em problemas menores e genrecia-los da maneira correta
+Você pode contar comigo para resolver qualquer parada, podemos resolver os maiores problemas se quebrarmos eles em problemas menores e genrecia-los da maneira correta, e a programação é a nossa melhor ferramenta!
 
 
 
