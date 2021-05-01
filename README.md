@@ -16,11 +16,12 @@ I'm left handed
 I once when i was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but i coudn't make it work because i didn't know how to reassembly it ahahaha  
 ### :calendar:: Para o futuro:  
 :books: Aprender WebDevelopment  
-:mortar_board: Finalizei o ensino médio ano passado e estou prestes a entrar no curso de Engenharia eletrônica pela UFSC (Universidade Federal De Santa Catarina)  
+:mortar_board:  I concluded high school last year and I’m about to get in the Electronic Engineering Degree at UFSC (Universidade Federal de Santa Catarina) 
 
 
-:star: Como você pode ver, eu ainda estou no ínicio da minha jornada, tenho pouca experiência e ainda tenho muita coisa para aprender.  
-Você pode contar comigo para resolver qualquer parada, podemos resolver os maiores problemas se quebrarmos eles em problemas menores e genrecia-los da maneira correta, e a programação é a nossa melhor ferramenta!  
+:star: As you can see, I’m still at the beginning of my journey, I have little experience and I still have a lot to learn.
+You can count on me to solve any problem, we can solve the biggest problems if we break them down into smaller problems and manage them in the right way.  
+Programming is our best tool to achieve that!    
 ### :mailbox_with_no_mail: You can contact me in:  
 - [![Gmail Badge](https://img.shields.io/badge/-netto2002.sjb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:netto2002.sjb@gmail.com)](mailto:netto2002@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-netinho8h8-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/netinho8h8/](https://www.instagram.com/netinho8h8/))](https://www.instagram.com/netinho8h8/)
 
