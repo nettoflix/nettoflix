@@ -10,7 +10,7 @@ Depois de assistir a série inteira e mais um livro de 1000 páginas sobre a syn
 Eu não finalizei o jogo, mas aprendi muito sobre o conceito de abstração, de vencer desafios, e de pedir ajuda. 
 Depois disso eu fui afundo, conheci hacking, assembly language e eletrônica. (e tentei fazer mais jogos)
 
-### :books: linguagens e ferramentas que já usei:  
+### 💻  linguagens e ferramentas que já usei:  
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/c%23-000000?style=flat&logo=C-Sharp)
