@@ -13,7 +13,7 @@ in C++ I made some unfinished games and some simple hacks for desktop apps.
 In java, I did some desktop and android apps.  
 Some of them are available as repositories here in github and most of them have a wiki with documentation.  
 ### :sparkles: Fun Facts  
-I'm left handed  
+I'm left-handed  
 I once when I was a kid opened a non functional monitor to find out what was the cause of the problem and found out a broken piece, but I coudn't make it work because I didn't know how to reassembly it ahahaha  
 ### :calendar:: For the future:  
 :books: Aprender WebDevelopment  
