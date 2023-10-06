@@ -1,7 +1,6 @@
 
 ### Hello World, I'm Netto.  
-I'm an 19 years old Brazilian.  
-I love science, technology, and programming, which I have been studying for a little over 2 years.  
+I love science, technology, and programming. 
 I love to solve challenges and learn new things.  
 ### 💻  Languages and tools I've used:  
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -14,10 +13,8 @@ In java, I did some desktop and android apps.
 Some of them are available as repositories here in github and most of them have a wiki with documentation. 
 I used c# mostly to play around with Unity
 
-### :calendar:: What I'm currently doing:  
-:books: Learning WebDevelopment: I'm learning HTML, CSS and JavaScrpit and I'm also very interested in the backend, learning Firebase and AWS.   
-:mortar_board:  I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina) 
-
+### :calendar:: What I'm currently doing:   
+:mortar_board:  I study Control and Automation Engineering at UFSC (Universidade Federal de Santa Catarina) 
 
 :star: As you can see, I’m still at the beginning of my journey, I have little experience and I still have a lot to learn.
 You can count on me to solve any problem, we can solve the biggest problems if we break them down into smaller problems and manage them in the right way.  
