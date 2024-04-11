@@ -15,6 +15,7 @@ I used c# mostly to play around with Unity
 
 ### :calendar:: What I'm currently doing:   
 :mortar_board:  I study Control and Automation Engineering at UFSC (Universidade Federal de Santa Catarina) 
+I'm also on a interniship on software development using C++ with the Qt framework
 
 :star: As you can see, I’m still at the beginning of my journey, I have little experience and I still have a lot to learn.
 You can count on me to solve any problem, we can solve the biggest problems if we break them down into smaller problems and manage them in the right way.  
